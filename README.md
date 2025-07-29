@@ -55,12 +55,16 @@ I am an AI Engineer with expertise in building intelligent systems using Python,
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash25i&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash25i&theme=tokyonight" alt="streak"/>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakash25i&show_icons=true&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=prakash25i&theme=tokyonight)
+
 </p>
+
 
 ---
 
